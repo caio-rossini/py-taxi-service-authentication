@@ -24,4 +24,5 @@ urlpatterns = [
     ),
 ]
 
+# name of the app for namespacing
 app_name = "taxi"
